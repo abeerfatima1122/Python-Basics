@@ -1,8 +1,8 @@
-# Python Basics 🐍  
+# Python Basics   
 
 A collection of Jupyter Notebooks covering fundamental topics in Python programming. Ideal for beginners and intermediate learners, these notebooks provide hands-on examples and clear explanations to help you master essential Python concepts.  
 
-## 📚 Topics Covered  
+##  Topics Covered  
 
 - **1️⃣ Python Introduction:**  
   Learn the basics of Python and its history.
@@ -24,7 +24,7 @@ A collection of Jupyter Notebooks covering fundamental topics in Python programm
 
 ---
 
-## 🚀 How to Use  
+##  How to Use  
 
 1. **Clone this repository:**  
    ```bash
